@@ -1,4 +1,4 @@
-package com.smdevisiors.smsreceive
+package com.espmisti.smsreceive
 
 import org.junit.Test
 
